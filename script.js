@@ -3,5 +3,5 @@ function getFormvalue() {
 const firstName = document.querySelector(".fname").value;
 const lastName = document.querySelector(".lname").value;
 
-	alert(firstName + lastName);
+	alert(firstName + " " + lastName);
 }
